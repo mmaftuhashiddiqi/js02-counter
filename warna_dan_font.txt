@@ -1,0 +1,6 @@
+primary color: #F1F5F8
+number color: #008000
+h1 (counter) color: #102B42
+border (decrease & reset) bottom color: #292929
+border (increase) bottom color: #1664CD
+font: Lato

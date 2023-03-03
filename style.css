@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Lato, sans-serif;
+    text-align: center;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #F1F5F8;
+}
+
+.title {
+    color: #102B42;
+    font-size: 80px;
+}
+
+.counter {
+    color: #008000;
+    font-size: 100px;
+}
+
+button {
+    letter-spacing: 3px;
+    color: #292929;
+    background-color: transparent;
+    margin: 0 7px;
+    padding: 5px 10px;
+    border: 2px solid #292929;
+    border-radius: 7px;
+}
+
+button.increase {
+    border: 2px solid #1664CD;
+}
+
+button:hover {
+    cursor: pointer;
+}
