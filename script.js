@@ -25,8 +25,8 @@ decrease.addEventListener('click', function () {
 });
 
 reset.addEventListener('click', function () {
-    counter.textContent = 3;
-    counter.style.color = '#008000';
+    counter.textContent = 0;
+    counterColor();
 });
 
 increase.addEventListener('click', function () {

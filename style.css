@@ -19,7 +19,7 @@
 }
 
 .counter {
-    color: #008000;
+    color: blue;
     font-size: 100px;
 }
 
@@ -39,4 +39,5 @@ button.increase {
 
 button:hover {
     cursor: pointer;
+    background-color: #dedede;
 }
